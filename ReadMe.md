@@ -58,7 +58,7 @@ Veja a lista dos principais cargos de analista de dados em 2023:
 - Empregadores Diversos: Empresas como SmartAsset, Meta e AT&T estão entre as que oferecem altos salários, demonstrando um amplo interesse em diferentes setores.
 - Variedade de Cargos: Há uma grande diversidade de cargos, de Analista de Dados a Diretor de Análise, refletindo a variedade de funções e especializações em análise de dados.
 
-![Cargos mais bem pagos](assets\1_top_paying_jobs.png)
+![Cargos mais bem pagos](https://github.com/Lydson/Trabalhos_Analista_Dados_SQL/blob/main/assets/1_top_paying_jobs.png?raw=true)
 *Gráfico de barra para vizualizar os 10 maiores salários para a analista de dados. Gerado pelo ChatGPT a partir da query SQL 1*
 
 ### 2. Habilidades para os Cargos Mais Bem Pagos
@@ -101,7 +101,7 @@ Abaixo estão as habilidades mais presentes nas 10 vagas de analista de dados co
 * **Tableau** surge como uma ferramenta muito valorizada, com 6 menções.
   Outras competências como **R**, **Snowflake**, **Pandas** e **Excel** aparecem com menor frequência, mas ainda são relevantes.
 
-![Habilidades mais bem pagas](assets\2_top_paying_job_skills.png)
+![Habilidades mais bem pagas](https://github.com/Lydson/Trabalhos_Analista_Dados_SQL/blob/main/assets/2_top_paying_job_skills.png?raw=true)
 *Gráfico de barras mostrando a frequência das habilidades nas 10 vagas mais bem pagas para analistas de dados. Criado a partir dos resultados da consulta SQL acima.*
 
 ---
@@ -252,3 +252,4 @@ Durante essa análise, aprimorei consideravelmente minha habilidade com SQL:
 2. **Habilidades para Bons Salários:** SQL é uma habilidade essencial nas vagas mais bem remuneradas.
 3. **Habilidades Mais Demandadas:** SQL também é a competência mais requisitada no mercado, sendo indispensável para quem busca uma vaga.
 4. **Habilidades com Maiores Salários Médios:** Competências como SVN e Solidity estão entre as mais lucrativas, indicando valorização de especializações.
+
